@@ -6,4 +6,8 @@ how is work going
 
 if changed by other then can i see in my file please answer the quetion in yes or no?
 
+<<<<<<< HEAD
 Yes i can see it from my end after pull command
+=======
+i am still awaiting please answer asap
+>>>>>>> 74a7717fd47b985cd81c77c47c02fccea74f0d94
